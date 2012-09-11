@@ -1,0 +1,75 @@
+StartChar: degree
+Encoding: 176 176 126
+Width: 492
+Flags: W
+TtInstrs:
+NPUSHB
+ 19
+ 15
+ 48
+ 9
+ 21
+ 48
+ 3
+ 18
+ 47
+ 6
+ 12
+ 47
+ 0
+ 3
+ 16
+ 9
+ 34
+ 1
+ 0
+ 70
+SROUND
+MDAP[rnd]
+SHZ[rp1]
+RTG
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SVTCA[y-axis]
+SRP0
+MIRP[rp0,min,rnd,black]
+SRP0
+MIRP[rp0,min,rnd,black]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 25
+ 0
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+127 640 m 0,0,1
+ 127 692 127 692 164.5 727.5 c 128,-1,2
+ 202 763 202 763 256 763 c 0,3,4
+ 298 763 298 763 332 728 c 128,-1,5
+ 366 693 366 693 366 651 c 0,6,7
+ 366 604 366 604 328 565 c 128,-1,8
+ 290 526 290 526 243 526 c 0,9,10
+ 194 526 194 526 160.5 558.5 c 128,-1,11
+ 127 591 127 591 127 640 c 0,0,1
+174 634 m 0,12,13
+ 174 602 174 602 192.5 580 c 128,-1,14
+ 211 558 211 558 243 558 c 0,15,16
+ 279 558 279 558 298.5 584 c 128,-1,17
+ 318 610 318 610 318 648 c 256,18,19
+ 318 686 318 686 301 709.5 c 128,-1,20
+ 284 733 284 733 248 733 c 0,21,22
+ 222 733 222 733 203 717 c 128,-1,23
+ 184 701 184 701 179 677 c 128,-1,24
+ 174 653 174 653 174 634 c 0,12,13
+EndSplineSet
+EndChar

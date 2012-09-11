@@ -1,0 +1,60 @@
+StartChar: dieresis
+Encoding: 168 168 104
+Width: 450
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 22
+ 17
+ 11
+ 6
+ 21
+ 10
+ 0
+ 15
+ 3
+ 25
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+MIAP[rnd]
+ALIGNRP
+SVTCA[y-axis]
+SVTCA[x-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 23
+ 17
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+340 475 m 2,0,1
+ 331 445 331 445 318.5 427 c 128,-1,2
+ 306 409 306 409 281 409 c 0,3,4
+ 264 409 264 409 253 417.5 c 128,-1,5
+ 242 426 242 426 242 442 c 0,6,7
+ 242 456 242 456 250.5 475.5 c 128,-1,8
+ 259 495 259 495 268 509 c 2,9,-1
+ 375 684 l 1,10,-1
+ 397 677 l 1,11,-1
+ 340 475 l 2,0,1
+160 475 m 1,12,13
+ 153 445 153 445 139.5 427 c 128,-1,14
+ 126 409 126 409 100 409 c 0,15,16
+ 61 409 61 409 61 442 c 0,17,18
+ 61 459 61 459 68 474.5 c 128,-1,19
+ 75 490 75 490 87 509 c 2,20,-1
+ 194 684 l 1,21,-1
+ 217 677 l 1,22,-1
+ 160 475 l 1,12,13
+EndSplineSet
+EndChar

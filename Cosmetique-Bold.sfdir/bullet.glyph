@@ -1,0 +1,42 @@
+StartChar: bullet
+Encoding: 8226 8226 114
+Width: 737
+Flags: W
+TtInstrs:
+NPUSHB
+ 6
+ 9
+ 3
+ 0
+ 8
+ 6
+ 43
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+SVTCA[y-axis]
+SVTCA[x-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 12
+ 9
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+369 578 m 0,0,1
+ 455 578 455 578 517.5 514.5 c 128,-1,2
+ 580 451 580 451 580 364 c 0,3,4
+ 580 279 580 279 518 216 c 128,-1,5
+ 456 153 456 153 369 153 c 0,6,7
+ 279 153 279 153 217 215 c 128,-1,8
+ 155 277 155 277 155 364 c 256,9,10
+ 155 451 155 451 218.5 514.5 c 128,-1,11
+ 282 578 282 578 369 578 c 0,0,1
+EndSplineSet
+EndChar

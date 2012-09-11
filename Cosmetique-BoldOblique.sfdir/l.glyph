@@ -1,0 +1,59 @@
+StartChar: l
+Encoding: 108 108 77
+Width: 282
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 14
+ 5
+ 11
+ 2
+ 5
+ 0
+ 1
+ 93
+ 14
+ 8
+ 17
+ 120
+SVTCA[y-axis]
+SROUND
+MIAP[rnd]
+ALIGNRP
+SROUND
+MIAP[rnd]
+ALIGNRP
+RTG
+SVTCA[y-axis]
+SVTCA[y-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 17
+ 14
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+139 738 m 1,0,1
+ 181 733 181 733 223 733 c 0,2,3
+ 238 733 238 733 251.5 733.5 c 128,-1,4
+ 265 734 265 734 302 738 c 1,5,6
+ 254 553 254 553 215.5 364 c 128,-1,7
+ 177 175 177 175 152 0 c 1,8,9
+ 133 0 133 0 105 2.5 c 128,-1,10
+ 77 5 77 5 73 5 c 0,11,12
+ 55 5 55 5 27 2.5 c 128,-1,13
+ -1 0 -1 0 -6 0 c 1,14,15
+ 39 169 39 169 81.5 380 c 128,-1,16
+ 124 591 124 591 139 738 c 1,0,1
+EndSplineSet
+EndChar

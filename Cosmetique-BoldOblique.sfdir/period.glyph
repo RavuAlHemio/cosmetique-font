@@ -1,0 +1,43 @@
+StartChar: period
+Encoding: 46 46 15
+Width: 270
+Flags: W
+TtInstrs:
+NPUSHB
+ 7
+ 9
+ 41
+ 3
+ 0
+ 10
+ 6
+ 18
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SVTCA[y-axis]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 12
+ 9
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+85 156 m 0,0,1
+ 124 156 124 156 146.5 132.5 c 128,-1,2
+ 169 109 169 109 169 71 c 0,3,4
+ 169 34 169 34 146 11 c 128,-1,5
+ 123 -12 123 -12 85 -12 c 0,6,7
+ 46 -12 46 -12 23 10 c 128,-1,8
+ 0 32 0 32 0 71 c 0,9,10
+ 0 109 0 109 23.5 132.5 c 128,-1,11
+ 47 156 47 156 85 156 c 0,0,1
+EndSplineSet
+EndChar

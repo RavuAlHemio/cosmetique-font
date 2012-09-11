@@ -1,0 +1,901 @@
+SplineFontDB: 3.0
+FontName: Cosmetique-Regular
+FullName: Cosmetique-Regular
+FamilyName: Cosmetique
+Weight: Regular
+Copyright: Copyright (c) Magenta Ltd., 2004\nCopyright 2012 Ondrej Hosek
+Version: 0.01
+ItalicAngle: 0
+UnderlinePosition: -123
+UnderlineWidth: 20
+Ascent: 800
+Descent: 200
+sfntRevision: 0x0000028f
+LayerCount: 2
+Layer: 0 1 "Back"  1
+Layer: 1 1 "Fore"  0
+XUID: [1021 834 2020745525 4639354]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1100708872
+ModificationTime: 1347407060
+PfmFamily: 33
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 11 5 0 0 3 0 2 0 3
+OS2TypoAscent: 912
+OS2TypoAOffset: 0
+OS2TypoDescent: -269
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 912
+OS2WinAOffset: 0
+OS2WinDescent: 269
+OS2WinDOffset: 0
+HheadAscent: 912
+HheadAOffset: 0
+HheadDescent: -269
+HheadDOffset: 0
+OS2SubXSize: 0
+OS2SubYSize: 0
+OS2SubXOff: 0
+OS2SubYOff: 0
+OS2SupXSize: 0
+OS2SupYSize: 0
+OS2SupXOff: 0
+OS2SupYOff: 0
+OS2StrikeYSize: 1
+OS2StrikeYPos: 0
+OS2Vendor: 'UKWN'
+OS2UnicodeRanges: 80000087.00000048.00000000.00000000
+MarkAttachClasses: 1
+DEI: 91125
+TtTable: prep
+PUSHW_1
+ 10
+CALL
+NPUSHB
+ 14
+ 48
+ 48
+ 47
+ 47
+ 22
+ 22
+ 1
+ 1
+ 0
+ 0
+ 24
+ 24
+ 69
+ 1
+SCANTYPE
+PUSHW_1
+ 511
+SCANCTRL
+SROUND
+RCVT
+ROUND[Grey]
+WCVTP
+RTG
+PUSHB_4
+ 2
+ 0
+ 70
+ 0
+CALL
+PUSHB_4
+ 3
+ 0
+ 70
+ 0
+CALL
+PUSHB_4
+ 4
+ 0
+ 70
+ 0
+CALL
+PUSHB_4
+ 5
+ 0
+ 70
+ 0
+CALL
+PUSHB_4
+ 6
+ 0
+ 70
+ 0
+CALL
+PUSHB_4
+ 7
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 8
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 9
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 10
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 11
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 12
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 13
+ 0
+ 70
+ 0
+CALL
+PUSHB_4
+ 14
+ 0
+ 70
+ 0
+CALL
+PUSHB_4
+ 15
+ 24
+ 70
+ 0
+CALL
+PUSHB_4
+ 16
+ 0
+ 70
+ 0
+CALL
+PUSHB_4
+ 17
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 18
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 19
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 20
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 21
+ 0
+ 70
+ 0
+CALL
+PUSHB_4
+ 23
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 25
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 26
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 27
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 28
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 29
+ 24
+ 70
+ 0
+CALL
+PUSHB_4
+ 30
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 31
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 32
+ 24
+ 70
+ 0
+CALL
+PUSHB_4
+ 33
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 34
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 35
+ 24
+ 70
+ 0
+CALL
+PUSHB_4
+ 36
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 37
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 38
+ 24
+ 70
+ 0
+CALL
+PUSHB_4
+ 39
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 40
+ 24
+ 70
+ 0
+CALL
+PUSHB_4
+ 41
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 42
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 43
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 44
+ 22
+ 70
+ 0
+CALL
+PUSHB_4
+ 45
+ 1
+ 70
+ 0
+CALL
+PUSHB_4
+ 46
+ 22
+ 70
+ 0
+CALL
+RCVT
+ROUND[Grey]
+WCVTP
+RCVT
+ROUND[Grey]
+WCVTP
+RCVT
+ROUND[Grey]
+WCVTP
+RCVT
+ROUND[Grey]
+WCVTP
+RCVT
+ROUND[Grey]
+WCVTP
+EndTTInstrs
+TtTable: fpgm
+NPUSHB
+ 5
+ 5
+ 4
+ 3
+ 2
+ 0
+FDEF
+SROUND
+RCVT
+DUP
+PUSHB_1
+ 3
+CINDEX
+RCVT
+SWAP
+SUB
+ROUND[Grey]
+RTG
+SWAP
+ROUND[Grey]
+ADD
+WCVTP
+ENDF
+FDEF
+RCVT
+DUP
+PUSHB_1
+ 3
+CINDEX
+RCVT
+SWAP
+SUB
+ROUND[Grey]
+SWAP
+ROUND[Grey]
+ADD
+WCVTP
+ENDF
+FDEF
+DUP
+DUP
+PUSHW_1
+ -64
+SHPIX
+SRP2
+PUSHB_2
+ 64
+ 1
+SHZ[rp2]
+SHPIX
+ENDF
+FDEF
+DUP
+DUP
+PUSHB_1
+ 64
+SHPIX
+SRP2
+PUSHB_1
+ 1
+SHZ[rp2]
+PUSHW_1
+ -64
+SHPIX
+ENDF
+FDEF
+SVTCA[x-axis]
+PUSHB_1
+ 70
+SROUND
+DUP
+GC[orig]
+ROUND[Grey]
+RTG
+SWAP
+GC[cur]
+SUB
+ROUND[Grey]
+DUP
+IF
+DUP
+PUSHB_1
+ 3
+CINDEX
+SWAP
+SHPIX
+PUSHB_1
+ 2
+CINDEX
+SRP2
+PUSHB_1
+ 1
+SHZ[rp2]
+NEG
+SHPIX
+EIF
+ENDF
+PUSHW_1
+ 10
+FDEF
+MPPEM
+PUSHW_1
+ 3
+LT
+IF
+PUSHB_2
+ 1
+ 1
+INSTCTRL
+EIF
+PUSHW_1
+ 511
+SCANCTRL
+PUSHW_1
+ 68
+SCVTCI
+PUSHW_2
+ 3
+ 3
+SDS
+SDB
+ENDF
+PUSHW_1
+ 11
+FDEF
+DUP
+DUP
+RCVT
+ROUND[Black]
+WCVTP
+PUSHB_1
+ 1
+ADD
+ENDF
+PUSHW_1
+ 12
+FDEF
+PUSHW_1
+ 11
+LOOPCALL
+POP
+ENDF
+PUSHW_1
+ 13
+FDEF
+DUP
+GC[cur]
+PUSHB_1
+ 3
+CINDEX
+GC[cur]
+GT
+IF
+SWAP
+EIF
+DUP
+ROLL
+DUP
+ROLL
+MD[grid]
+ABS
+ROLL
+DUP
+GC[cur]
+DUP
+ROUND[Grey]
+SUB
+ABS
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+DUP
+ROUND[Grey]
+SUB
+ABS
+GT
+IF
+SWAP
+NEG
+ROLL
+EIF
+MDAP[rnd]
+DUP
+PUSHB_1
+ 0
+GTEQ
+IF
+ROUND[Black]
+DUP
+PUSHB_1
+ 0
+EQ
+IF
+POP
+PUSHB_1
+ 64
+EIF
+ELSE
+ROUND[Black]
+DUP
+PUSHB_1
+ 0
+EQ
+IF
+POP
+PUSHB_1
+ 64
+NEG
+EIF
+EIF
+MSIRP[no-rp0]
+ENDF
+PUSHW_1
+ 14
+FDEF
+DUP
+GC[cur]
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+GT
+IF
+SWAP
+ROLL
+EIF
+DUP
+GC[cur]
+DUP
+ROUND[White]
+SUB
+ABS
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+DUP
+ROUND[White]
+SUB
+ABS
+GT
+IF
+SWAP
+ROLL
+EIF
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+ENDF
+PUSHW_1
+ 15
+FDEF
+MPPEM
+DUP
+PUSHB_1
+ 3
+MINDEX
+LT
+IF
+LTEQ
+IF
+PUSHB_1
+ 128
+WCVTP
+ELSE
+PUSHB_1
+ 64
+WCVTP
+EIF
+ELSE
+POP
+POP
+DUP
+RCVT
+PUSHB_1
+ 192
+LT
+IF
+PUSHB_1
+ 192
+WCVTP
+ELSE
+POP
+EIF
+EIF
+ENDF
+PUSHW_1
+ 16
+FDEF
+DUP
+DUP
+RCVT
+ROUND[Black]
+WCVTP
+PUSHB_1
+ 1
+ADD
+DUP
+DUP
+RCVT
+RDTG
+ROUND[Black]
+RTG
+WCVTP
+PUSHB_1
+ 1
+ADD
+ENDF
+PUSHW_1
+ 17
+FDEF
+PUSHW_1
+ 16
+LOOPCALL
+ENDF
+PUSHW_1
+ 18
+FDEF
+MPPEM
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+PUSHB_1
+ 128
+ELSE
+PUSHB_1
+ 64
+EIF
+ROLL
+ROLL
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHB_1
+ 192
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHW_1
+ 256
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHW_1
+ 320
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHW_1
+ 3
+MINDEX
+GTEQ
+IF
+PUSHB_1
+ 3
+CINDEX
+RCVT
+PUSHW_1
+ 384
+LT
+IF
+SWAP
+POP
+PUSHW_1
+ 384
+SWAP
+POP
+ELSE
+PUSHB_1
+ 3
+CINDEX
+RCVT
+SWAP
+POP
+SWAP
+POP
+EIF
+ELSE
+POP
+EIF
+WCVTP
+ENDF
+PUSHW_1
+ 19
+FDEF
+MPPEM
+GTEQ
+IF
+RCVT
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+EndTTInstrs
+ShortTable: cvt  79
+  676
+  479
+  736
+  705
+  654
+  870
+  639
+  461
+  0
+  545
+  564
+  119
+  406
+  912
+  587
+  -184
+  763
+  442
+  94
+  273
+  515
+  621
+  0
+  -11
+  -267
+  409
+  -90
+  -114
+  253
+  -171
+  41
+  22
+  -196
+  -131
+  530
+  -232
+  331
+  145
+  -214
+  442
+  -160
+  209
+  468
+  72
+  197
+  423
+  179
+  86
+  41
+  1
+  84
+  136
+  91
+  145
+  234
+  93
+  264
+  205
+  311
+  160
+  325
+  190
+  286
+  219
+  189
+  163
+  66
+  145
+  51
+  174
+  35
+  133
+  84
+  106
+  22
+  119
+  6
+  46
+  20
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  222
+  89
+  7
+  0
+  0
+  2
+  8
+  64
+  20
+  0
+  512
+  454
+  0
+  0
+EndShort
+LangName: 1033 "" "" "" "0.01;UKWN;Cosmetique-Regular" "" "" "" "" "" "" "" "" "" "" "" "" "Cosmetique" 
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 76 23
+BeginPrivate: 0
+EndPrivate
+EndSplineFont

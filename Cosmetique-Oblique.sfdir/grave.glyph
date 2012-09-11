@@ -1,0 +1,46 @@
+StartChar: grave
+Encoding: 96 96 65
+Width: 270
+Flags: W
+TtInstrs:
+NPUSHB
+ 7
+ 11
+ 6
+ 10
+ 4
+ 93
+ 3
+ 24
+SVTCA[y-axis]
+MIAP[rnd]
+SROUND
+MIAP[rnd]
+RTG
+SVTCA[y-axis]
+SVTCA[x-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 12
+ 6
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+180 444 m 1,0,1
+ 174 422 174 422 158.5 406.5 c 128,-1,2
+ 143 391 143 391 121 391 c 0,3,4
+ 103 391 103 391 92 396.5 c 128,-1,5
+ 81 402 81 402 81 423 c 0,6,7
+ 81 436 81 436 86.5 448 c 128,-1,8
+ 92 460 92 460 104 477 c 2,9,-1
+ 264 682 l 1,10,-1
+ 284 673 l 1,11,-1
+ 180 444 l 1,0,1
+EndSplineSet
+EndChar

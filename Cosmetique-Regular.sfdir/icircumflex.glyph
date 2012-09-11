@@ -1,0 +1,141 @@
+StartChar: icircumflex
+Encoding: 238 238 112
+Width: 245
+Flags: W
+TtInstrs:
+NPUSHB
+ 49
+ 18
+ 7
+ 25
+ 24
+ 22
+ 21
+ 18
+ 15
+ 7
+ 2
+ 23
+ 20
+ 19
+ 5
+ 23
+ 23
+ 48
+ 19
+ 19
+ 47
+ 20
+ 24
+ 47
+ 25
+ 22
+ 47
+ 21
+ 2
+ 0
+ 9
+ 47
+ 1
+ 21
+ 7
+ 25
+ 1
+ 12
+ 47
+ 0
+ 1
+ 20
+ 19
+ 3
+ 12
+ 22
+ 120
+ 1
+ 25
+ 70
+SROUND
+MDAP[rnd]
+SHZ[rp1]
+RTG
+SVTCA[y-axis]
+SROUND
+MIAP[rnd]
+RTG
+MIAP[rnd]
+ALIGNRP
+SVTCA[x-axis]
+MDAP[rnd]
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+SRP0
+MDRP[rp0,min,rnd,black]
+SRP0
+MDRP[rp0,min,rnd,black]
+IUP[x]
+SRP0
+MIRP[rp0,min,rnd,black]
+SRP0
+MDRP[rp0,rnd,white]
+SRP0
+MIRP[rp0,min,rnd,black]
+SRP0
+MIRP[rp0,min,rnd,black]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SVTCA[y-axis]
+SRP0
+MIRP[rp0,min,rnd,black]
+SRP0
+MDRP[rp0,rnd,white]
+SVTCA[x-axis]
+SRP1
+SRP2
+IP
+SVTCA[y-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 26
+ 25
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+74 104 m 1,0,-1
+ 75 376 l 1,1,-1
+ 69 472 l 1,2,3
+ 81 469 81 469 99 468 c 128,-1,4
+ 117 467 117 467 120 467 c 0,5,6
+ 149 467 149 467 168 472 c 1,7,8
+ 162 419 162 419 162 365 c 0,9,10
+ 162 305 162 305 165 183 c 128,-1,11
+ 168 61 168 61 168 0 c 1,12,13
+ 156 1 156 1 145 2.5 c 128,-1,14
+ 134 4 134 4 118 4 c 0,15,16
+ 105 4 105 4 91 2.5 c 128,-1,17
+ 77 1 77 1 69 0 c 1,18,-1
+ 74 104 l 1,0,-1
+90 704 m 1,19,-1
+ 154 704 l 1,20,-1
+ 263 535 l 1,21,-1
+ 230 535 l 1,22,-1
+ 123 630 l 1,23,-1
+ 17 535 l 1,24,-1
+ -18 535 l 1,25,-1
+ 90 704 l 1,19,-1
+EndSplineSet
+EndChar

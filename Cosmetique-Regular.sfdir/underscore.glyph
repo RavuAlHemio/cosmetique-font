@@ -1,0 +1,46 @@
+StartChar: underscore
+Encoding: 95 95 64
+Width: 492
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 3
+ 2
+ 1
+ 0
+ 3
+ 2
+ 15
+ 1
+ 0
+ 35
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+MIAP[rnd]
+ALIGNRP
+SVTCA[y-axis]
+SVTCA[x-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 4
+ 1
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+492 -232 m 1,0,-1
+ 0 -232 l 1,1,-1
+ 0 -184 l 1,2,-1
+ 492 -184 l 1,3,-1
+ 492 -232 l 1,0,-1
+EndSplineSet
+EndChar

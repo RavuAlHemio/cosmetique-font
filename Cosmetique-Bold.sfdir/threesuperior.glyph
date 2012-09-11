@@ -1,0 +1,141 @@
+StartChar: threesuperior
+Encoding: 179 179 147
+Width: 356
+Flags: W
+TtInstrs:
+NPUSHB
+ 46
+ 6
+ 30
+ 27
+ 40
+ 39
+ 42
+ 18
+ 17
+ 40
+ 29
+ 36
+ 28
+ 27
+ 46
+ 30
+ 6
+ 21
+ 46
+ 12
+ 36
+ 46
+ 0
+ 18
+ 24
+ 9
+ 6
+ 15
+ 28
+ 6
+ 45
+ 29
+ 28
+ 24
+ 33
+ 45
+ 3
+ 39
+ 45
+ 42
+ 0
+ 5
+ 12
+ 28
+ 1
+ 15
+ 70
+SROUND
+MDAP[rnd]
+SHZ[rp1]
+RTG
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+MDAP[rnd]
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+SRP0
+MDRP[rp0,rnd,white]
+SRP0
+MDRP[rp0,rnd,white]
+SRP0
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+SRP0
+MIRP[rp0,min,rnd,black]
+SRP0
+MIRP[rp0,min,rnd,black]
+MIAP[rnd]
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+MDRP[rp0,rnd,white]
+MDAP[rnd]
+MDRP[rp0,rnd,white]
+ALIGNRP
+SVTCA[x-axis]
+SRP1
+SRP2
+IP
+SVTCA[y-axis]
+SRP1
+SRP2
+IP
+IUP[x]
+IUP[y]
+PUSHB_3
+ 45
+ 15
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+175 647 m 0,0,1
+ 227 647 227 647 266.5 624.5 c 128,-1,2
+ 306 602 306 602 306 555 c 0,3,4
+ 306 526 306 526 287.5 503.5 c 128,-1,5
+ 269 481 269 481 217 465 c 1,6,7
+ 259 463 259 463 291 436.5 c 128,-1,8
+ 323 410 323 410 323 369 c 0,9,10
+ 323 307 323 307 271 276.5 c 128,-1,11
+ 219 246 219 246 152 246 c 0,12,13
+ 110 246 110 246 78.5 253.5 c 128,-1,14
+ 47 261 47 261 13 282 c 1,15,16
+ 45 325 45 325 66 364 c 1,17,-1
+ 73 364 l 1,18,19
+ 73 326 73 326 88.5 302.5 c 128,-1,20
+ 104 279 104 279 140 279 c 0,21,22
+ 173 279 173 279 192 303 c 128,-1,23
+ 211 327 211 327 211 361 c 0,24,25
+ 211 396 211 396 191 418.5 c 128,-1,26
+ 171 441 171 441 135 441 c 1,27,-1
+ 109 440 l 1,28,-1
+ 109 475 l 1,29,-1
+ 131 474 l 1,30,31
+ 165 474 165 474 187 493 c 128,-1,32
+ 209 512 209 512 209 547 c 0,33,34
+ 209 576 209 576 193.5 596 c 128,-1,35
+ 178 616 178 616 150 616 c 0,36,37
+ 118 616 118 616 102 591.5 c 128,-1,38
+ 86 567 86 567 86 535 c 1,39,-1
+ 80 530 l 1,40,41
+ 55 560 55 560 19 587 c 1,42,43
+ 39 615 39 615 87 631 c 128,-1,44
+ 135 647 135 647 175 647 c 0,0,1
+EndSplineSet
+EndChar

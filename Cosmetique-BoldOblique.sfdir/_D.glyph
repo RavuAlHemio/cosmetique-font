@@ -1,0 +1,109 @@
+StartChar: D
+Encoding: 68 68 37
+Width: 747
+Flags: W
+TtInstrs:
+NPUSHB
+ 31
+ 31
+ 17
+ 3
+ 0
+ 31
+ 17
+ 15
+ 31
+ 17
+ 15
+ 42
+ 34
+ 21
+ 42
+ 12
+ 27
+ 42
+ 0
+ 24
+ 41
+ 9
+ 6
+ 0
+ 0
+ 93
+ 17
+ 12
+ 17
+ 1
+ 17
+ 70
+SROUND
+MDAP[rnd]
+SHZ[rp1]
+RTG
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+SROUND
+MIAP[rnd]
+ALIGNRP
+RTG
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SVTCA[y-axis]
+SRP0
+MIRP[rp0,min,rnd,black]
+SRP0
+MIRP[rp0,min,rnd,black]
+SRP0
+MIRP[rp0,min,rnd,black]
+SVTCA[x-axis]
+SRP1
+SRP2
+IP
+SRP1
+SRP2
+IP
+SVTCA[y-axis]
+MDAP[no-rnd]
+SVTCA[x-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 34
+ 17
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+132 671 m 1,0,1
+ 171 667 171 667 184 666.5 c 128,-1,2
+ 197 666 197 666 213 666 c 0,3,4
+ 254 666 254 666 317 668.5 c 128,-1,5
+ 380 671 380 671 390 671 c 0,6,7
+ 536 671 536 671 627.5 611.5 c 128,-1,8
+ 719 552 719 552 719 414 c 0,9,10
+ 719 215 719 215 589 107.5 c 128,-1,11
+ 459 0 459 0 254 0 c 0,12,13
+ 227 0 227 0 171 3.5 c 128,-1,14
+ 115 7 115 7 95 7 c 0,15,16
+ 45 7 45 7 -3 1 c 1,17,18
+ 33 133 33 133 58 237.5 c 128,-1,19
+ 83 342 83 342 102 449.5 c 128,-1,20
+ 121 557 121 557 132 671 c 1,0,1
+245 62 m 0,21,22
+ 387 62 387 62 467.5 158 c 128,-1,23
+ 548 254 548 254 548 398 c 0,24,25
+ 548 498 548 498 497 553.5 c 128,-1,26
+ 446 609 446 609 347 609 c 1,27,-1
+ 295 606 l 1,28,29
+ 259 474 259 474 230 335.5 c 128,-1,30
+ 201 197 201 197 184 68 c 1,31,32
+ 199 66 199 66 219.5 64 c 128,-1,33
+ 240 62 240 62 245 62 c 0,21,22
+EndSplineSet
+EndChar

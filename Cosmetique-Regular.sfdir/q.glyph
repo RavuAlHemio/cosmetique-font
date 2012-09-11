@@ -1,0 +1,140 @@
+StartChar: q
+Encoding: 113 113 82
+Width: 546
+Flags: W
+TtInstrs:
+NPUSHB
+ 44
+ 29
+ 25
+ 3
+ 30
+ 25
+ 23
+ 20
+ 0
+ 7
+ 6
+ 6
+ 18
+ 20
+ 18
+ 39
+ 7
+ 33
+ 39
+ 48
+ 15
+ 33
+ 48
+ 9
+ 23
+ 30
+ 26
+ 42
+ 47
+ 12
+ 20
+ 47
+ 26
+ 18
+ 36
+ 47
+ 26
+ 15
+ 1
+ 3
+ 24
+ 120
+ 1
+ 12
+ 70
+SROUND
+MDAP[rnd]
+SHZ[rp1]
+RTG
+SVTCA[y-axis]
+SROUND
+MIAP[rnd]
+RTG
+MIAP[rnd]
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+MIRP[rp0,min,rnd,black]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SRP0
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[rp0,min,rnd,black]
+SRP0
+MIRP[rp0,min,rnd,black]
+SRP0
+MDRP[rp0,rnd,white]
+SRP0
+MDRP[rp0,rnd,white]
+SVTCA[x-axis]
+SRP1
+SRP2
+IP
+SRP0
+ALIGNRP
+SVTCA[y-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 45
+ 12
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+438 -265 m 0,0,1
+ 426 -265 426 -265 417.5 -265.5 c 128,-1,2
+ 409 -266 409 -266 389 -269 c 1,3,4
+ 394 -225 394 -225 395 -154 c 128,-1,5
+ 396 -83 396 -83 396 -73 c 2,6,-1
+ 396 71 l 1,7,8
+ 342 -11 342 -11 244 -11 c 0,9,10
+ 149 -11 149 -11 94 59.5 c 128,-1,11
+ 39 130 39 130 39 228 c 0,12,13
+ 39 329 39 329 90.5 406.5 c 128,-1,14
+ 142 484 142 484 239 484 c 0,15,16
+ 292 484 292 484 332.5 458.5 c 128,-1,17
+ 373 433 373 433 399 385 c 1,18,19
+ 399 428 399 428 393 472 c 1,20,21
+ 415 468 415 468 422.5 467.5 c 128,-1,22
+ 430 467 430 467 440 467 c 0,23,24
+ 461 467 461 467 486 472 c 1,25,-1
+ 483 312 l 1,26,27
+ 483 215 483 215 482 117.5 c 128,-1,28
+ 481 20 481 20 480 -77 c 1,29,-1
+ 486 -269 l 1,30,31
+ 474 -267 474 -267 463 -266 c 128,-1,32
+ 452 -265 452 -265 438 -265 c 0,0,1
+269 34 m 0,33,34
+ 341 34 341 34 371 96 c 128,-1,35
+ 401 158 401 158 401 238 c 0,36,37
+ 401 312 401 312 368.5 370.5 c 128,-1,38
+ 336 429 336 429 268 429 c 0,39,40
+ 199 429 199 429 169 369 c 128,-1,41
+ 139 309 139 309 139 232 c 0,42,43
+ 139 157 139 157 170 95.5 c 128,-1,44
+ 201 34 201 34 269 34 c 0,33,34
+EndSplineSet
+EndChar

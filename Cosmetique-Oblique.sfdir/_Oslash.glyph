@@ -1,0 +1,44 @@
+StartChar: Oslash
+Encoding: 8231 8231 161
+Width: 307
+Flags: W
+TtInstrs:
+NPUSHB
+ 7
+ 3
+ 48
+ 9
+ 0
+ 1
+ 6
+ 35
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SVTCA[y-axis]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 13
+ 9
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+172 465 m 0,0,1
+ 196 465 196 465 214 447 c 128,-1,2
+ 232 429 232 429 232 405 c 0,3,4
+ 232 382 232 382 214 363 c 128,-1,5
+ 196 344 196 344 172 344 c 256,6,7
+ 148 344 148 344 130 361 c 128,-1,8
+ 112 378 112 378 112 403 c 1,9,-1
+ 115 427 l 1,10,11
+ 122 445 122 445 137 455 c 128,-1,12
+ 152 465 152 465 172 465 c 0,0,1
+EndSplineSet
+EndChar

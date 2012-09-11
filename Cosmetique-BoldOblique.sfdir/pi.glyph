@@ -1,0 +1,59 @@
+StartChar: pi
+Encoding: 921 921 165
+Width: 330
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 16
+ 6
+ 3
+ 16
+ 10
+ 0
+ 93
+ 6
+ 0
+ 17
+ 120
+SVTCA[y-axis]
+SROUND
+MIAP[rnd]
+ALIGNRP
+SROUND
+MIAP[rnd]
+ALIGNRP
+RTG
+SVTCA[y-axis]
+SVTCA[y-axis]
+MDAP[no-rnd]
+SVTCA[x-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 19
+ 6
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+188 0 m 1,0,1
+ 179 0 179 0 141.5 3.5 c 128,-1,2
+ 104 7 104 7 88 7 c 0,3,4
+ 64 7 64 7 40 4 c 128,-1,5
+ 16 1 16 1 6 0 c 1,6,7
+ 38 117 38 117 67 234 c 128,-1,8
+ 96 351 96 351 115 455 c 128,-1,9
+ 134 559 134 559 143 671 c 1,10,11
+ 172 668 172 668 194.5 666 c 128,-1,12
+ 217 664 217 664 233 664 c 0,13,14
+ 255 664 255 664 283 667 c 128,-1,15
+ 311 670 311 670 325 671 c 1,16,17
+ 279 536 279 536 242 349.5 c 128,-1,18
+ 205 163 205 163 188 0 c 1,0,1
+EndSplineSet
+EndChar

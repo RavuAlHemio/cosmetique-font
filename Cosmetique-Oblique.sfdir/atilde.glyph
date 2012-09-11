@@ -1,0 +1,46 @@
+StartChar: atilde
+Encoding: 180 180 103
+Width: 270
+Flags: W
+TtInstrs:
+NPUSHB
+ 7
+ 11
+ 6
+ 3
+ 4
+ 10
+ 24
+ 120
+SVTCA[y-axis]
+SROUND
+MIAP[rnd]
+RTG
+MIAP[rnd]
+SVTCA[y-axis]
+SVTCA[x-axis]
+MDAP[no-rnd]
+MDAP[no-rnd]
+IUP[x]
+IUP[y]
+PUSHB_3
+ 12
+ 11
+ 5
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+184 631 m 1,0,1
+ 192 655 192 655 206 669 c 128,-1,2
+ 220 683 220 683 243 683 c 0,3,4
+ 262 683 262 683 273 676 c 128,-1,5
+ 284 669 284 669 284 650 c 0,6,7
+ 284 637 284 637 277.5 624.5 c 128,-1,8
+ 271 612 271 612 259 597 c 2,9,-1
+ 100 391 l 1,10,-1
+ 79 400 l 1,11,-1
+ 184 631 l 1,0,1
+EndSplineSet
+EndChar
