@@ -4,12 +4,5 @@ Width: 492
 Flags: HW
 LayerCount: 2
 Fore
-SplineSet
-0 269 m 1
- 492 269 l 1
- 492 208 l 1
- 0 208 l 1
- 0 269 l 1
-EndSplineSet
-Validated: 1
+Refer: 220 8211 N 1 0 0 1 0 0 2
 EndChar
