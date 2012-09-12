@@ -1,99 +1,26 @@
 StartChar: bracketright
-Encoding: 93 93 62
+Encoding: 93 93 60
 Width: 268
-Flags: W
-TtInstrs:
-NPUSHB
- 31
- 17
- 10
- 2
- 4
- 1
- 13
- 11
- 49
- 9
- 13
- 12
- 49
- 9
- 1
- 0
- 49
- 3
- 1
- 48
- 4
- 4
- 3
- 2
- 4
- 10
- 9
- 8
- 26
- 1
- 10
- 70
-SROUND
-MDAP[rnd]
-SHZ[rp1]
-RTG
-SVTCA[y-axis]
-MIAP[rnd]
-ALIGNRP
-ALIGNRP
-MIAP[rnd]
-ALIGNRP
-ALIGNRP
-SVTCA[x-axis]
-MDAP[rnd]
-MIRP[rp0,min,rnd,black]
-SVTCA[y-axis]
-SRP0
-MIRP[rp0,min,rnd,black]
-ALIGNRP
-SRP0
-MIRP[rp0,min,rnd,black]
-ALIGNRP
-SRP0
-MIRP[rp0,min,rnd,black]
-ALIGNRP
-SVTCA[x-axis]
-SRP1
-SRP2
-IP
-SVTCA[x-axis]
-MDAP[no-rnd]
-MDAP[no-rnd]
-IUP[x]
-IUP[y]
-PUSHB_3
- 18
- 10
- 5
-CALL
-EndTTInstrs
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-144 644 m 1,0,-1
- 109 642 l 1,1,-1
- 115 679 l 1,2,-1
- 186 678 l 1,3,-1
- 256 679 l 1,4,5
- 239 601 239 601 211 465 c 128,-1,6
- 183 329 183 329 150 163 c 128,-1,7
- 117 -3 117 -3 99 -98 c 1,8,-1
- 33 -97 l 1,9,-1
- -33 -98 l 1,10,-1
- -27 -60 l 1,11,-1
- 13 -63 l 1,12,-1
- 36 -62 l 1,13,14
- 52 11 52 11 76 127 c 128,-1,15
- 100 243 100 243 132.5 409 c 128,-1,16
- 165 575 165 575 178 642 c 1,17,-1
- 144 644 l 1,0,-1
+144 644 m 1
+ 109 642 l 1
+ 115 679 l 1
+ 186 678 l 1
+ 256 679 l 1
+ 244.666666667 627 229.666666667 555.666666667 211 465 c 128
+ 192.333333333 374.333333333 172 273.666666667 150 163 c 128
+ 128 52.3333333333 111 -34.6666666667 99 -98 c 1
+ 33 -97 l 1
+ -33 -98 l 1
+ -27 -60 l 1
+ 13 -63 l 1
+ 36 -62 l 1
+ 46.6666666667 -13.3333333333 60 49.6666666667 76 127 c 128
+ 92 204.333333333 110.833333333 298.333333333 132.5 409 c 128
+ 154.166666667 519.666666667 169.333333333 597.333333333 178 642 c 1
+ 144 644 l 1
 EndSplineSet
 EndChar

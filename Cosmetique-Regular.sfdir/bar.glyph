@@ -1,72 +1,20 @@
 StartChar: bar
-Encoding: 124 124 93
+Encoding: 124 124 90
 Width: 492
-Flags: W
-TtInstrs:
-NPUSHB
- 23
- 7
- 1
- 0
- 6
- 48
- 8
- 6
- 5
- 2
- 3
- 1
- 47
- 7
- 4
- 3
- 3
- 0
- 3
- 2
- 0
- 5
- 4
- 29
-SVTCA[y-axis]
-MIAP[rnd]
-ALIGNRP
-MIAP[rnd]
-ALIGNRP
-SVTCA[x-axis]
-MDAP[rnd]
-SLOOP
-ALIGNRP
-MIRP[rp0,min,rnd,black]
-SLOOP
-ALIGNRP
-SVTCA[y-axis]
-SRP0
-MIRP[rp0,min,rnd,black]
-SVTCA[y-axis]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-IUP[x]
-IUP[y]
-PUSHB_3
- 8
- 1
- 5
-CALL
-EndTTInstrs
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-271 323 m 1,0,-1
- 220 323 l 1,1,-1
- 220 688 l 1,2,-1
- 271 688 l 1,3,-1
- 271 323 l 1,0,-1
-271 -168 m 1,4,-1
- 220 -168 l 1,5,-1
- 220 196 l 1,6,-1
- 271 196 l 1,7,-1
- 271 -168 l 1,4,-1
+271 323 m 1
+ 220 323 l 1
+ 220 688 l 1
+ 271 688 l 1
+ 271 323 l 1
+271 -168 m 1
+ 220 -168 l 1
+ 220 196 l 1
+ 271 196 l 1
+ 271 -168 l 1
 EndSplineSet
+Validated: 1
 EndChar

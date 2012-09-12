@@ -1,141 +1,33 @@
 StartChar: icircumflex
-Encoding: 238 238 112
+Encoding: 238 238 111
 Width: 285
-Flags: W
-TtInstrs:
-NPUSHB
- 48
- 19
- 10
- 27
- 26
- 24
- 23
- 19
- 18
- 10
- 4
- 7
- 22
- 21
- 7
- 25
- 25
- 46
- 21
- 22
- 45
- 21
- 24
- 45
- 23
- 26
- 45
- 27
- 17
- 13
- 4
- 0
- 23
- 13
- 27
- 0
- 14
- 13
- 45
- 1
- 0
- 22
- 21
- 2
- 17
- 18
- 1
- 27
- 70
-SROUND
-MDAP[rnd]
-SHZ[rp1]
-RTG
-SVTCA[y-axis]
-MIAP[rnd]
-MIAP[rnd]
-ALIGNRP
-SVTCA[x-axis]
-MDAP[rnd]
-ALIGNRP
-MIRP[rp0,min,rnd,black]
-ALIGNRP
-SRP0
-MDRP[rp0,min,rnd,black]
-SRP0
-MDRP[rp0,min,rnd,black]
-IUP[x]
-SRP0
-MDRP[rp0,rnd,white]
-SRP0
-MDRP[rp0,rnd,white]
-SRP0
-MIRP[rp0,min,rnd,black]
-SRP0
-MIRP[rp0,min,rnd,black]
-MDAP[rnd]
-MIRP[rp0,min,rnd,black]
-SVTCA[y-axis]
-SRP0
-MIRP[rp0,min,rnd,black]
-SRP0
-MDRP[rp0,rnd,white]
-SVTCA[x-axis]
-SRP1
-SRP2
-IP
-SVTCA[y-axis]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-MDAP[no-rnd]
-MDAP[no-rnd]
-IUP[x]
-IUP[y]
-PUSHB_3
- 28
- 27
- 5
-CALL
-EndTTInstrs
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-67 91 m 2,0,-1
- 66 391 l 2,1,2
- 66 402 66 402 62.5 433.5 c 128,-1,3
- 59 465 59 465 59 480 c 1,4,5
- 80 478 80 478 102 476 c 128,-1,6
- 124 474 124 474 143 474 c 0,7,8
- 161 474 161 474 184 476 c 128,-1,9
- 207 478 207 478 228 480 c 1,10,11
- 227 474 227 474 224 447.5 c 128,-1,12
- 221 421 221 421 218 392 c 1,13,-1
- 218 230 l 2,14,15
- 218 153 218 153 219.5 104 c 128,-1,16
- 221 55 221 55 227 0 c 1,17,-1
- 141 2 l 1,18,-1
- 59 0 l 1,19,20
- 67 48 67 48 67 91 c 2,0,-1
-98 722 m 1,21,-1
- 186 722 l 1,22,-1
- 297 544 l 1,23,-1
- 248 544 l 1,24,-1
- 143 632 l 1,25,-1
- 36 544 l 1,26,-1
- -11 544 l 1,27,-1
- 98 722 l 1,21,-1
+67 91 m 2
+ 66 391 l 2
+ 66 398.333333333 64.8333333333 412.5 62.5 433.5 c 128
+ 60.1666666667 454.5 59 470 59 480 c 1
+ 73 478.666666667 87.3333333333 477.333333333 102 476 c 128
+ 116.666666667 474.666666667 130.333333333 474 143 474 c 0
+ 155 474 168.666666667 474.666666667 184 476 c 128
+ 199.333333333 477.333333333 214 478.666666667 228 480 c 1
+ 227.333333333 476 226 465.166666667 224 447.5 c 128
+ 222 429.833333333 220 411.333333333 218 392 c 1
+ 218 230 l 2
+ 218 178.666666667 218.5 136.666666667 219.5 104 c 128
+ 220.5 71.3333333333 223 36.6666666667 227 0 c 1
+ 141 2 l 1
+ 59 0 l 1
+ 64.3333333333 32 67 62.3333333333 67 91 c 2
+98 722 m 1
+ 186 722 l 1
+ 297 544 l 1
+ 248 544 l 1
+ 143 632 l 1
+ 36 544 l 1
+ -11 544 l 1
+ 98 722 l 1
 EndSplineSet
 EndChar

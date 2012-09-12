@@ -12,15 +12,15 @@ Ascent: 800
 Descent: 200
 sfntRevision: 0x0000028f
 LayerCount: 2
-Layer: 0 1 "Back"  1
-Layer: 1 1 "Fore"  0
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
 XUID: [1021 834 2020745525 4639354]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1100708872
-ModificationTime: 1347407060
+ModificationTime: 1347407966
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5

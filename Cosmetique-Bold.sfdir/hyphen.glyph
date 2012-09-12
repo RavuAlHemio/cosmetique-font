@@ -1,59 +1,18 @@
 StartChar: hyphen
-Encoding: 45 45 14
+Encoding: 45 45 13
 Width: 322
-Flags: W
-TtInstrs:
-NPUSHB
- 14
- 7
- 6
- 4
- 3
- 0
- 5
- 3
- 6
- 4
- 3
- 10
- 7
- 6
- 33
-SVTCA[y-axis]
-MIAP[rnd]
-ALIGNRP
-MIAP[rnd]
-ALIGNRP
-SVTCA[y-axis]
-SVTCA[y-axis]
-SRP1
-SRP2
-IP
-SVTCA[x-axis]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-IUP[x]
-IUP[y]
-PUSHB_3
- 10
- 3
- 5
-CALL
-EndTTInstrs
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-48 241 m 0,0,1
- 48 254 48 254 45.5 276.5 c 128,-1,2
- 43 299 43 299 43 304 c 1,3,-1
- 279 304 l 1,4,-1
- 274 240 l 1,5,-1
- 279 178 l 1,6,-1
- 43 178 l 1,7,8
- 43 191 43 191 45.5 213.5 c 128,-1,9
- 48 236 48 236 48 241 c 0,0,1
+48 241 m 0
+ 48 249.666666667 47.1666666667 261.5 45.5 276.5 c 128
+ 43.8333333333 291.5 43 300.666666667 43 304 c 1
+ 279 304 l 1
+ 274 240 l 1
+ 279 178 l 1
+ 43 178 l 1
+ 43 186.666666667 43.8333333333 198.5 45.5 213.5 c 128
+ 47.1666666667 228.5 48 237.666666667 48 241 c 0
 EndSplineSet
 EndChar

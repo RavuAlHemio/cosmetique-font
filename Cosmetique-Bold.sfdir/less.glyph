@@ -1,101 +1,17 @@
 StartChar: less
-Encoding: 60 60 29
+Encoding: 60 60 28
 Width: 819
-Flags: W
-TtInstrs:
-NPUSHB
- 34
- 2
- 1
- 45
- 3
- 4
- 4
- 3
- 1
- 0
- 45
- 5
- 6
- 6
- 5
- 0
- 46
- 6
- 2
- 46
- 3
- 5
- 46
- 4
- 28
- 1
- 45
- 5
- 4
- 6
- 8
- 93
- 3
- 24
- 120
-SVTCA[y-axis]
-SROUND
-MIAP[rnd]
-SROUND
-MIAP[rnd]
-RTG
-SVTCA[x-axis]
-MDAP[rnd]
-ALIGNRP
-MIRP[rp0,min,rnd,black]
-SVTCA[y-axis]
-MIAP[rnd]
-MIRP[rp0,min,rnd,black]
-SRP0
-MIRP[rp0,min,rnd,black]
-SRP0
-MIRP[rp0,min,rnd,black]
-SDPVTL[orthog]
-MDAP[no-rnd]
-SFVTPV
-MDRP[rnd,grey]
-SFVTPV
-MIRP[rp0,min,rnd,grey]
-PUSHW_2
- -15170
- 6188
-SFVFS
-MDRP[rnd,grey]
-SDPVTL[orthog]
-MDAP[no-rnd]
-SFVTPV
-MDRP[rnd,grey]
-PUSHW_2
- -15170
- -6188
-SFVFS
-MIRP[rp0,min,rnd,grey]
-SFVTPV
-MDRP[rnd,grey]
-IUP[x]
-IUP[y]
-PUSHB_3
- 7
- 4
- 5
-CALL
-EndTTInstrs
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-691 468 m 1,0,-1
- 262 293 l 1,1,-1
- 691 118 l 1,2,-1
- 691 13 l 1,3,-1
- 126 245 l 1,4,-1
- 126 340 l 1,5,-1
- 691 573 l 1,6,-1
- 691 468 l 1,0,-1
+691 468 m 1
+ 262 293 l 1
+ 691 118 l 1
+ 691 13 l 1
+ 126 245 l 1
+ 126 340 l 1
+ 691 573 l 1
+ 691 468 l 1
 EndSplineSet
 EndChar

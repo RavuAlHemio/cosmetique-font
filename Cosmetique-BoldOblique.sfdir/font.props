@@ -12,15 +12,15 @@ Ascent: 800
 Descent: 200
 sfntRevision: 0x0000028f
 LayerCount: 2
-Layer: 0 1 "Back"  1
-Layer: 1 1 "Fore"  0
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
 XUID: [1021 834 2020745525 14995301]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1100712669
-ModificationTime: 1347407526
+ModificationTime: 1347408199
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -844,7 +844,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 76 23
+WinInfo: 63840 76 23
 BeginPrivate: 0
 EndPrivate
 EndSplineFont
