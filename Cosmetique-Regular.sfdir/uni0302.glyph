@@ -1,0 +1,20 @@
+StartChar: uni0302
+Encoding: 770 770 226
+Width: 0
+Flags: HWO
+HStem: 535 169
+VStem: 103 284
+AnchorPoint: "circum" 142 532 mark 0
+LayerCount: 2
+Fore
+SplineSet
+110 704 m 1
+ 175 704 l 1
+ 284 535 l 1
+ 249 535 l 1
+ 142 630 l 1
+ 36 535 l 1
+ 0 535 l 1
+ 110 704 l 1
+EndSplineSet
+EndChar

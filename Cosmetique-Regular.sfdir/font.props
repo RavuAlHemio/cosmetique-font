@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1100708872
-ModificationTime: 1347412530
+ModificationTime: 1347492799
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -893,7 +893,7 @@ LangName: 1033 "" "" "" "0.01;UKWN;Cosmetique-Regular" "" "" "" "" "" "" "" "" "
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -24
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 0 32 8

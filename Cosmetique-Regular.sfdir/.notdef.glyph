@@ -1,7 +1,9 @@
 StartChar: .notdef
 Encoding: 65536 -1 218
 Width: 800
-Flags: HW
+Flags: W
+HStem: 0 50<100 700> 750 50<100 700>
+VStem: 50 50<50 750> 700 50<50 750>
 LayerCount: 2
 Fore
 SplineSet
