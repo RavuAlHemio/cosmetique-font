@@ -2,6 +2,8 @@ StartChar: Z
 Encoding: 90 90 56
 Width: 596
 Flags: HW
+AnchorPoint: "circum" 296 742 basechar 0
+AnchorPoint: "above" 296 742 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -34,5 +36,4 @@ SplineSet
  69.3333333333 1 31 0 5 0 c 1
  5 26 l 1
 EndSplineSet
-Validated: 1
 EndChar

@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1100708872
-ModificationTime: 1347410933
+ModificationTime: 1347412530
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -52,6 +52,7 @@ OS2StrikeYSize: 1
 OS2StrikeYPos: 0
 OS2Vendor: 'UKWN'
 OS2UnicodeRanges: 80000087.00000048.00000000.00000000
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 0"  {"'mark' Mark Positioning lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -895,7 +896,8 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 76 23
+WinInfo: 0 32 8
 BeginPrivate: 0
 EndPrivate
+AnchorClass2: "above"  "'mark' Mark Positioning lookup 0-1" "circum"  "'mark' Mark Positioning lookup 0-1" "tails"  "'mark' Mark Positioning lookup 0-1" "aboveright"  "'mark' Mark Positioning lookup 0-1" 
 EndSplineFont
