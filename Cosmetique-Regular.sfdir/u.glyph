@@ -4,6 +4,7 @@ Width: 543
 Flags: W
 HStem: -11 58<190.067 313.538> -1 21G<384.706 391.333 470 475.667> 451 20G<65.6061 73.3333 156 162 380 388.667 471 475.938>
 VStem: 69 85<86.2549 464.684> 386 85<3.10547 84 111.346 469.803>
+AnchorPoint: "tails" 430 3 basechar 0
 AnchorPoint: "circum" 260 532 basechar 0
 AnchorPoint: "above" 260 532 basechar 0
 LayerCount: 2

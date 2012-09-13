@@ -1,7 +1,7 @@
 StartChar: uni0302
 Encoding: 770 770 226
 Width: 0
-Flags: HWO
+Flags: HW
 HStem: 535 169
 VStem: 103 284
 AnchorPoint: "circum" 142 532 mark 0

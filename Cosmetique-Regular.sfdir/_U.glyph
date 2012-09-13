@@ -1,7 +1,7 @@
 StartChar: U
 Encoding: 85 85 51
 Width: 731
-Flags: WO
+Flags: W
 HStem: -11 52<270.84 482.302> 651 20G<73.6667 77.6667 188 189.667 577.333 578.667 659.333 659.667>
 VStem: 84 95<147.383 665.705> 586 64<141.43 665.665>
 AnchorPoint: "circum" 375 742 basechar 0

@@ -1,7 +1,7 @@
 StartChar: A
 Encoding: 65 65 31
 Width: 594
-Flags: WO
+Flags: W
 HStem: 0 21G<-9.33333 0 32 76.3333 468 481.333 584 599.667> 255 51<177 369> 664 20G<270.696 281 322.333 346>
 VStem: -11 84<0 49.9288>
 AnchorPoint: "tails" 541 5 basechar 0

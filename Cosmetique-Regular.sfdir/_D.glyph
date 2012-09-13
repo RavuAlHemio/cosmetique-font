@@ -1,7 +1,7 @@
 StartChar: D
 Encoding: 68 68 34
 Width: 751
-Flags: WO
+Flags: W
 HStem: 1 45<189.689 429.686> 626 43<189 308.37> 632 44<189.63 439.613>
 VStem: 78 111<52.2812 169.72 511.247 626> 605 109<213.813 470.354>
 AnchorPoint: "above" 347 742 basechar 0

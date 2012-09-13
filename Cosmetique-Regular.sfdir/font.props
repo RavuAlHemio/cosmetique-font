@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1100708872
-ModificationTime: 1347492799
+ModificationTime: 1347494955
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -896,7 +896,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 8
+WinInfo: 32 32 8
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "above"  "'mark' Mark Positioning lookup 0-1" "circum"  "'mark' Mark Positioning lookup 0-1" "tails"  "'mark' Mark Positioning lookup 0-1" "aboveright"  "'mark' Mark Positioning lookup 0-1" 
