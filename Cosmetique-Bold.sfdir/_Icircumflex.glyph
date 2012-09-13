@@ -2,7 +2,8 @@ StartChar: Icircumflex
 Encoding: 206 206 244
 Width: 322
 VWidth: 0
-Flags: H
+HStem: 4 660<80.005 241.997> 651 20<70.3333 75.3333 250.667 251.667> 742 178
+VStem: 4 308 80 162<5.2417 663.422>
 LayerCount: 2
 Fore
 Refer: 227 770 N 1 0 0 1 4 199 2

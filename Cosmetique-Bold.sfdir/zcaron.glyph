@@ -2,7 +2,8 @@ StartChar: zcaron
 Encoding: 382 382 308
 Width: 478
 VWidth: 0
-Flags: H
+HStem: 5 66<202 458.969> 409 66<49.1914 259> 532 178
+VStem: 101 308
 LayerCount: 2
 Fore
 Refer: 230 780 N 1 0 0 1 101 -11 2

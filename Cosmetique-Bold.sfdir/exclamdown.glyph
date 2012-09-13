@@ -1,7 +1,9 @@
 StartChar: exclamdown
 Encoding: 161 161 310
 Width: 320
-Flags: HW
+Flags: W
+HStem: -211 20<146 170.667> 313 170<102.164 216.027>
+VStem: 74 171<341.605 454.602> 79 159<-182.638 -71.6207>
 LayerCount: 2
 Fore
 Refer: 141 33 N -1 0 0 -1 319 472 2

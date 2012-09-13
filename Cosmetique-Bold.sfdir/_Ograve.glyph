@@ -2,7 +2,8 @@ StartChar: Ograve
 Encoding: 210 210 242
 Width: 813
 VWidth: 0
-Flags: H
+HStem: -11 63<316.547 493.374> 619 64<318.174 494.703> 742 189
+VStem: 29 178<197.785 469.899> 202 261 605 177<208.776 476.077>
 LayerCount: 2
 Fore
 Refer: 224 768 N 1 0 0 1 202 198 2

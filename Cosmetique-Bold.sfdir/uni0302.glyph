@@ -1,18 +1,20 @@
 StartChar: uni0302
 Encoding: 770 770 227
 Width: 0
-Flags: HW
+Flags: W
+HStem: 543 178
+VStem: 0 308
 AnchorPoint: "circum" 155 543 mark 0
 LayerCount: 2
 Fore
 SplineSet
-110 721 m 1
- 199 721 l 1
- 308 543 l 1
- 261 543 l 1
- 155 631 l 1
- 48 543 l 1
- 0 543 l 1
- 110 721 l 1
+110 721 m 5
+ 199 721 l 5
+ 308 543 l 5
+ 261 543 l 5
+ 155 631 l 5
+ 48 543 l 5
+ 0 543 l 5
+ 110 721 l 5
 EndSplineSet
 EndChar

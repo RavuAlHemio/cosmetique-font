@@ -2,7 +2,8 @@ StartChar: Sacute
 Encoding: 346 346 291
 Width: 534
 VWidth: 0
-Flags: H
+HStem: -13 67<148.242 308.537> 617 66<206.134 359.325> 742 190
+VStem: 42 132<448 570.522> 233 261 356 141<115.547 242>
 LayerCount: 2
 Fore
 Refer: 225 769 N 1 0 0 1 233 199 2

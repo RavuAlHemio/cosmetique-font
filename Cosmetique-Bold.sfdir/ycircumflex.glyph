@@ -2,7 +2,8 @@ StartChar: ycircumflex
 Encoding: 375 375 301
 Width: 470
 VWidth: 0
-Flags: H
+HStem: 460 20<4 5.33333 180.333 187.333 366.667 416 450 478.333> 532 178
+VStem: 119 308
 LayerCount: 2
 Fore
 Refer: 227 770 N 1 0 0 1 119 -11 2

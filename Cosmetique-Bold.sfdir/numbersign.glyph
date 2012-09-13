@@ -1,7 +1,8 @@
 StartChar: numbersign
 Encoding: 35 35 1
 Width: 755
-Flags: HW
+Flags: W
+HStem: -4 21G<88 202.035 312 425.136> 195 96<57 159 298 382 523 629> 406 97<126 235 376 460 599 699>
 LayerCount: 2
 Fore
 SplineSet
