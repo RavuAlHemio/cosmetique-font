@@ -2,6 +2,8 @@ StartChar: k
 Encoding: 107 107 73
 Width: 544
 Flags: HW
+AnchorPoint: "above" 140 798 basechar 0
+AnchorPoint: "circum" 140 798 basechar 0
 LayerCount: 2
 Fore
 SplineSet
