@@ -1,7 +1,7 @@
 StartChar: o
 Encoding: 111 111 77
 Width: 557
-Flags: HWO
+Flags: HW
 AnchorPoint: "circum" 283 552 basechar 0
 AnchorPoint: "above" 283 552 basechar 0
 LayerCount: 2

@@ -1,7 +1,7 @@
 StartChar: u
 Encoding: 117 117 83
 Width: 582
-Flags: HWO
+Flags: HW
 AnchorPoint: "tails" 445 3 basechar 0
 AnchorPoint: "above" 284 552 basechar 0
 AnchorPoint: "circum" 284 552 basechar 0

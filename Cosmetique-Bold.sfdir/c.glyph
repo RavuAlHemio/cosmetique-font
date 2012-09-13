@@ -1,7 +1,7 @@
 StartChar: c
 Encoding: 99 99 65
 Width: 475
-Flags: HWO
+Flags: HW
 AnchorPoint: "tails" 251 -6 basechar 0
 AnchorPoint: "above" 306 532 basechar 0
 AnchorPoint: "circum" 306 532 basechar 0
